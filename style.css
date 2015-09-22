@@ -6779,6 +6779,7 @@ body {
 .navbar-style {
   margin: 0;
   background: #ffffff;
+  width: 100%;
 }
 .nav-style {
   padding: 0 25 0 0;
