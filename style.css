@@ -6776,10 +6776,13 @@ body {
   background-attachment: fixed;
 }
 /* PINGENDO COMMENT DO NOT REMOVE */
+body {
+  background-color: #f5d62f;
+}
 .navbar-style {
+  color: #fff;
   margin: 0;
-  background: #ffffff;
-  width: 100%;
+  background: transparent;
 }
 .nav-style {
   padding: 0 25 0 0;
@@ -6787,4 +6790,53 @@ body {
 .slideshow-style {
   height: 500;
   width: 100%;
+}
+.carousel-caption h2 {
+  color: red;
+  padding-top: -20px;
+}
+.navbar-nav {
+  padding-right: 50px;
+  background: transparent;
+}
+.navbar {
+  width: 100%;
+  background: transparent;
+}
+.img-thumbnail {
+  margin-top: -35px;
+  width: 100%;
+  background-color: transparent;
+  border-color: transparent;
+}
+#img-requirement {
+  background-color: #dddddd;
+}
+#img-service {
+  background-color: #dddddd;
+}
+#img-others {
+  background-color: #dddddd;
+}
+.navbar .navbar-default .navbar-collapse,
+.navbar-default .navbar-form {
+  border-color: transparent;
+  padding-top: 15px;
+}
+#barra {
+  border-color: transparent;
+}
+#footer-section {
+  background-color: #aaa;
+}
+#logo-gdo {
+  padding-top: 15px;
+}
+#site-name {
+  font-family: "Open Sans", Verdana, Helvetica;
+  font-size: 35px;
+  color: #010101;
+}
+#navigation-menu {
+  margin-top: 15px;
 }
