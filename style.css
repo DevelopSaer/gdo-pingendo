@@ -6841,3 +6841,13 @@ body {
 #navigation-menu {
   margin-top: 15px;
 }
+#thumbnails-section {
+  padding-top: 80px;
+}
+#map-google {
+  width: 100%;
+}
+#map-section {
+  width: 100%;
+  background-color: #dfdfdf;
+}
